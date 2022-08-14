@@ -1,0 +1,15 @@
+.btn-info {
+    font-size:25px;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ .btn-success:hover{
+     background-color: darkred;
+ }
+ 
+ canvas{
+     animation-name:moon;
+     animation-duration:3s;
+     animation-iteration-count: infinite;
+ 
+ }
